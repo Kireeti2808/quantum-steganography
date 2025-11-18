@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+opencv-python-headless
+scikit-image
+scikit-learn
+numpy
+matplotlib
+pycryptodome
+pandas
+reedsolo
+pillow
